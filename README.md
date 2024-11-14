@@ -5,7 +5,7 @@
 *Controlabilidad*  
 La controlabilidad se refiere a la capacidad de un sistema para ser manipulado o dirigido a cualquier estado deseado, utilizando el control adecuado.
 
-Un sistema es controlable en un tiempo $$\( t_0 \)$$ si, desde cualquier estado inicial $$\( x(t_0) \)$$, se puede transferir a cualquier otro estado en un intervalo de tiempo finito.
+Un sistema es controlable en un tiempo $$(t_0)$$ si, desde cualquier estado inicial $$\( x(t_0) \)$$, se puede transferir a cualquier otro estado en un intervalo de tiempo finito.
   
 
 #### Matriz de Controlabilidad
