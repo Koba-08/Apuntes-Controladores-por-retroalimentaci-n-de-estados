@@ -373,7 +373,7 @@ P_d(z) = z^3 + 7z^2 + 12z + 10
 k=[4,1,1]
 
 
-# concluciones
+# conclusiones
 
 Conclusión Final
 Los ejercicios muestran cómo, utilizando la controlabilidad y el diseño del controlador por retroalimentación de estados, es posible modificar el comportamiento de un sistema dinámico, moviendo los polos del sistema cerrado a las ubicaciones deseadas. Esto permite que el sistema tenga la respuesta deseada en términos de estabilidad y tiempo de respuesta, lo cual es crucial en la práctica de sistemas de control.
